@@ -5,6 +5,7 @@
 This project compares four hybrid machine learning models for predictive analysis using Artificial Neural Networks and metaheuristic optimization techniques.
 
 The objective is to evaluate the performance of different hybrid approaches and identify the most effective model based on prediction accuracy and error metrics.
+
 Project Report:
 A detailed report containing methodology, implementation details, experimental results, and conclusions is available in report.docx.
 
